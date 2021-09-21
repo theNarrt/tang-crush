@@ -1,9 +1,7 @@
 const CONFIG = {
     introTitle: 'DƯơng à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Tha lỗi cho mình đi mà
+    Mình biết lỗi rồi `,
     btnIntro: 'hihi',
     title: 'MÌnh biết lỗi rồi mà 😙',
     desc: 'Tha lỗi cho mình đi =(( ',
